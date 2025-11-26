@@ -1,0 +1,4 @@
+Git status: 
+=================
+rebuild.sh -f -y -j 10 -m 144 --gpuvecnum 65536
+=================

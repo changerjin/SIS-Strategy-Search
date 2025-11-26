@@ -1,0 +1,19 @@
+fatal: 不是 git 仓库（或者任何父目录）：.git
+/usr/lib/python3/dist-packages/apport/report.py:13: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import fnmatch, glob, traceback, errno, sys, atexit, imp, stat
+Traceback (most recent call last):
+  File "./svp_challenge.py", line 142, in <module>
+    asvp()
+  File "./svp_challenge.py", line 102, in asvp
+    args, all_params = parse_args(description,
+  File "/home/changshuai/Pump_Simulator/G6K-GPU-Tensor-python3/g6k/utils/cli.py", line 253, in parse_args
+    log_filename = log_filenamef()
+  File "/home/changshuai/Pump_Simulator/G6K-GPU-Tensor-python3/g6k/utils/cli.py", line 142, in log_filenamef
+    revision = git_revisionf()
+  File "/home/changshuai/Pump_Simulator/G6K-GPU-Tensor-python3/g6k/utils/cli.py", line 131, in git_revisionf
+    r = str(subprocess.check_output(cmd).rstrip())
+  File "/usr/lib/python3.8/subprocess.py", line 415, in check_output
+    return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,
+  File "/usr/lib/python3.8/subprocess.py", line 516, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '('git', 'show', '-s', '--format=%cd', 'HEAD', '--date=short')' returned non-zero exit status 128.

@@ -1,0 +1,8 @@
+Running: bkz.py 900 --seed 1 --gpus 1 --threads 16 --dh_min 106 --dh_vecs 32 --dh_dim 24 --dh_d4f 128 --workout/dim4free_min 128 --workout/dim4free_dec 2 --pump/down_sieve True --pump/prefer_left_insert 1.2 --verbose --db_size_factor 2.77 --saturation_ratio .375 --db_limit 2623944389860996508495499247370930846033113910800
+63 --multi_bucket 2 --max_nr_buckets 0 --trace False 
+Git status: 
+=================
+rebuild.sh -f -y -j 10 -m 144 --gpuvecnum 65536
+=================
+full matrix with dim 900 is loaded, q = 141
+matrix has been shrinked from 900 to 264
