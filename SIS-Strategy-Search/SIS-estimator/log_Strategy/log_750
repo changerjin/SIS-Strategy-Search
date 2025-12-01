@@ -1,0 +1,793 @@
+full matrix with dim 750 is loaded, q = 113
+test shrink dim 198
+matrix has been shrinked from 750 to 198
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 94 ~ 114
+last svp = 94, bz = 89, num = 6, cost = 21427992, svp cost = 57795
+last svp = 95, bz = 90, num = 4, cost = 15915276, svp cost = 64903
+last svp = 96, bz = 91, num = 3, cost = 13298171, svp cost = 72889
+last svp = 97, bz = 90, num = 3, cost = 13025979, svp cost = 1138200
+last svp = 98, bz = 89, num = 3, cost = 11998453, svp cost = 1313354
+last svp = 99, bz = 86, num = 4, cost = 11858659, svp cost = 1515535
+last svp = 100, bz = 85, num = 4, cost = 11044290, svp cost = 1748921
+last svp = 101, bz = 84, num = 4, cost = 10371832, svp cost = 2018341
+last svp = 102, bz = 83, num = 4, cost = 9836203, svp cost = 2329370
+last svp = 103, bz = 82, num = 4, cost = 9434256, svp cost = 2688450
+last svp = 104, bz = 80, num = 4, cost = 8550006, svp cost = 3103021
+last svp = 105, bz = 79, num = 4, cost = 8476119, svp cost = 3581677
+last svp = 106, bz = 78, num = 4, cost = 8532213, svp cost = 4134348
+last svp = 107, bz = 77, num = 4, cost = 8724104, svp cost = 4772503
+last svp = 108, bz = 76, num = 4, cost = 9059960, svp cost = 5509392
+last svp = 109, bz = 75, num = 4, cost = 9550516, svp cost = 6360325
+last svp = 110, bz = 74, num = 4, cost = 10209349, svp cost = 7342989
+last svp = 111, bz = 72, num = 4, cost = 10791735, svp cost = 8477819
+last svp = 112, bz = 71, num = 4, cost = 11867416, svp cost = 9788428
+last svp = 113, bz = 70, num = 4, cost = 13170003, svp cost = 11302098
+last svp = 114, bz = 69, num = 4, cost = 14728606, svp cost = 13050354
+best (8476119.17277443, [79, 79, 79, 79], 105)
+
+test shrink dim 203
+matrix has been shrinked from 750 to 203
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 94 ~ 114
+last svp = 94, bz = 88, num = 4, cost = 13439547, svp cost = 57795
+last svp = 95, bz = 88, num = 4, cost = 13446656, svp cost = 64903
+last svp = 96, bz = 87, num = 4, cost = 12095266, svp cost = 72889
+last svp = 97, bz = 86, num = 4, cost = 11938985, svp cost = 1138200
+last svp = 98, bz = 85, num = 4, cost = 11016415, svp cost = 1313354
+last svp = 99, bz = 84, num = 4, cost = 10232221, svp cost = 1515535
+last svp = 100, bz = 83, num = 4, cost = 9579325, svp cost = 1748921
+last svp = 101, bz = 82, num = 4, cost = 9052429, svp cost = 2018341
+last svp = 102, bz = 81, num = 4, cost = 8648002, svp cost = 2329370
+last svp = 103, bz = 80, num = 4, cost = 8364299, svp cost = 2688450
+last svp = 104, bz = 79, num = 4, cost = 8201398, svp cost = 3103021
+last svp = 105, bz = 78, num = 4, cost = 8161272, svp cost = 3581677
+last svp = 106, bz = 77, num = 4, cost = 8247901, svp cost = 4134348
+last svp = 107, bz = 76, num = 4, cost = 8467403, svp cost = 4772503
+last svp = 108, bz = 75, num = 4, cost = 8828220, svp cost = 5509392
+last svp = 109, bz = 74, num = 4, cost = 9341340, svp cost = 6360325
+last svp = 110, bz = 73, num = 4, cost = 10020563, svp cost = 7342989
+last svp = 111, bz = 69, num = 5, cost = 10656320, svp cost = 8477819
+last svp = 112, bz = 70, num = 4, cost = 11728733, svp cost = 9788428
+last svp = 113, bz = 69, num = 4, cost = 13044898, svp cost = 11302098
+last svp = 114, bz = 68, num = 4, cost = 14615761, svp cost = 13050354
+best (8161272.189599678, [78, 78, 78, 78], 105)
+
+test shrink dim 208
+matrix has been shrinked from 750 to 208
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 94 ~ 114
+last svp = 94, bz = 87, num = 4, cost = 12593949, svp cost = 57795
+last svp = 95, bz = 86, num = 4, cost = 11323349, svp cost = 64903
+last svp = 96, bz = 85, num = 4, cost = 10183641, svp cost = 72889
+last svp = 97, bz = 84, num = 4, cost = 10218081, svp cost = 1138200
+last svp = 98, bz = 84, num = 4, cost = 10393236, svp cost = 1313354
+last svp = 99, bz = 83, num = 4, cost = 9669509, svp cost = 1515535
+last svp = 100, bz = 82, num = 4, cost = 9071291, svp cost = 1748921
+last svp = 101, bz = 81, num = 4, cost = 8593828, svp cost = 2018341
+last svp = 102, bz = 80, num = 4, cost = 8234084, svp cost = 2329370
+last svp = 103, bz = 79, num = 4, cost = 7990762, svp cost = 2688450
+last svp = 104, bz = 78, num = 4, cost = 7864346, svp cost = 3103021
+last svp = 105, bz = 77, num = 4, cost = 7857181, svp cost = 3581677
+last svp = 106, bz = 76, num = 4, cost = 7973580, svp cost = 4134348
+last svp = 107, bz = 75, num = 4, cost = 8219968, svp cost = 4772503
+last svp = 108, bz = 74, num = 4, cost = 8605061, svp cost = 5509392
+last svp = 109, bz = 73, num = 4, cost = 9140097, svp cost = 6360325
+last svp = 110, bz = 72, num = 4, cost = 9839103, svp cost = 7342989
+last svp = 111, bz = 71, num = 4, cost = 10719228, svp cost = 8477819
+last svp = 112, bz = 70, num = 4, cost = 11801132, svp cost = 9788428
+last svp = 113, bz = 65, num = 6, cost = 13064993, svp cost = 11302098
+last svp = 114, bz = 64, num = 6, cost = 14633480, svp cost = 13050354
+best (7857180.684316345, [77, 77, 77, 77], 105)
+
+test shrink dim 213
+matrix has been shrinked from 750 to 213
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 94 ~ 114
+last svp = 94, bz = 86, num = 4, cost = 11773901, svp cost = 57795
+last svp = 95, bz = 85, num = 4, cost = 10583347, svp cost = 64903
+last svp = 96, bz = 85, num = 4, cost = 10591333, svp cost = 72889
+last svp = 97, bz = 84, num = 4, cost = 10581277, svp cost = 1138200
+last svp = 98, bz = 83, num = 4, cost = 9790899, svp cost = 1313354
+last svp = 99, bz = 82, num = 4, cost = 9126188, svp cost = 1515535
+last svp = 100, bz = 81, num = 4, cost = 8581264, svp cost = 1748921
+last svp = 101, bz = 80, num = 4, cost = 8151920, svp cost = 2018341
+last svp = 102, bz = 80, num = 4, cost = 8462949, svp cost = 2329370
+last svp = 103, bz = 79, num = 4, cost = 8194697, svp cost = 2688450
+last svp = 104, bz = 78, num = 4, cost = 8046076, svp cost = 3103021
+last svp = 105, bz = 77, num = 4, cost = 8019132, svp cost = 3581677
+last svp = 106, bz = 76, num = 4, cost = 8117912, svp cost = 4134348
+last svp = 107, bz = 75, num = 4, cost = 8348604, svp cost = 4772503
+last svp = 108, bz = 74, num = 4, cost = 8719715, svp cost = 5509392
+last svp = 109, bz = 73, num = 4, cost = 9242294, svp cost = 6360325
+last svp = 110, bz = 72, num = 4, cost = 9930202, svp cost = 7342989
+last svp = 111, bz = 71, num = 4, cost = 10800438, svp cost = 8477819
+last svp = 112, bz = 70, num = 4, cost = 11873532, svp cost = 9788428
+last svp = 113, bz = 65, num = 6, cost = 13126205, svp cost = 11302098
+last svp = 114, bz = 64, num = 6, cost = 14688070, svp cost = 13050354
+best (8019131.566690244, [77, 77, 77, 77], 105)
+
+find rough best d at 208, with result (7857180.684316345, [77, 77, 77, 77], 105)
+test shrink dim 204
+matrix has been shrinked from 750 to 204
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 94 ~ 114
+last svp = 94, bz = 88, num = 4, cost = 13554907, svp cost = 57795
+last svp = 95, bz = 87, num = 4, cost = 12190036, svp cost = 64903
+last svp = 96, bz = 86, num = 4, cost = 10965206, svp cost = 72889
+last svp = 97, bz = 85, num = 4, cost = 10922798, svp cost = 1138200
+last svp = 98, bz = 85, num = 4, cost = 11097953, svp cost = 1313354
+last svp = 99, bz = 84, num = 4, cost = 10304860, svp cost = 1515535
+last svp = 100, bz = 83, num = 4, cost = 9644039, svp cost = 1748921
+last svp = 101, bz = 82, num = 4, cost = 9110085, svp cost = 2018341
+last svp = 102, bz = 81, num = 4, cost = 8699373, svp cost = 2329370
+last svp = 103, bz = 80, num = 4, cost = 8410072, svp cost = 2688450
+last svp = 104, bz = 79, num = 4, cost = 8242185, svp cost = 3103021
+last svp = 105, bz = 78, num = 4, cost = 8197618, svp cost = 3581677
+last svp = 106, bz = 77, num = 4, cost = 8280291, svp cost = 4134348
+last svp = 107, bz = 76, num = 4, cost = 8496269, svp cost = 4772503
+last svp = 108, bz = 75, num = 4, cost = 8853948, svp cost = 5509392
+last svp = 109, bz = 74, num = 4, cost = 9364271, svp cost = 6360325
+last svp = 110, bz = 70, num = 5, cost = 9786470, svp cost = 7342989
+last svp = 111, bz = 71, num = 4, cost = 10654260, svp cost = 8477819
+last svp = 112, bz = 70, num = 4, cost = 11743213, svp cost = 9788428
+last svp = 113, bz = 69, num = 4, cost = 13057808, svp cost = 11302098
+last svp = 114, bz = 68, num = 4, cost = 14627272, svp cost = 13050354
+best (8197618.180075504, [78, 78, 78, 78], 105)
+
+test shrink dim 205
+matrix has been shrinked from 750 to 205
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 94 ~ 114
+last svp = 94, bz = 88, num = 4, cost = 13670267, svp cost = 57795
+last svp = 95, bz = 87, num = 4, cost = 12292791, svp cost = 64903
+last svp = 96, bz = 86, num = 4, cost = 11056738, svp cost = 72889
+last svp = 97, bz = 85, num = 4, cost = 11004337, svp cost = 1138200
+last svp = 98, bz = 84, num = 4, cost = 10175319, svp cost = 1313354
+last svp = 99, bz = 83, num = 4, cost = 9475367, svp cost = 1515535
+last svp = 100, bz = 82, num = 4, cost = 8898322, svp cost = 1748921
+last svp = 101, bz = 81, num = 4, cost = 8439715, svp cost = 2018341
+last svp = 102, bz = 81, num = 4, cost = 8750744, svp cost = 2329370
+last svp = 103, bz = 80, num = 4, cost = 8455845, svp cost = 2688450
+last svp = 104, bz = 79, num = 4, cost = 8282972, svp cost = 3103021
+last svp = 105, bz = 78, num = 4, cost = 8233964, svp cost = 3581677
+last svp = 106, bz = 77, num = 4, cost = 8312681, svp cost = 4134348
+last svp = 107, bz = 76, num = 4, cost = 8525135, svp cost = 4772503
+last svp = 108, bz = 71, num = 6, cost = 8798416, svp cost = 5509392
+last svp = 109, bz = 73, num = 4, cost = 9078778, svp cost = 6360325
+last svp = 110, bz = 72, num = 4, cost = 9784443, svp cost = 7342989
+last svp = 111, bz = 71, num = 4, cost = 10670502, svp cost = 8477819
+last svp = 112, bz = 70, num = 4, cost = 11757692, svp cost = 9788428
+last svp = 113, bz = 69, num = 4, cost = 13070717, svp cost = 11302098
+last svp = 114, bz = 64, num = 6, cost = 14600726, svp cost = 13050354
+best (8233964.17055133, [78, 78, 78, 78], 105)
+
+test shrink dim 206
+matrix has been shrinked from 750 to 206
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 94 ~ 114
+last svp = 94, bz = 87, num = 4, cost = 12388438, svp cost = 57795
+last svp = 95, bz = 87, num = 4, cost = 12395547, svp cost = 64903
+last svp = 96, bz = 86, num = 4, cost = 11148270, svp cost = 72889
+last svp = 97, bz = 85, num = 4, cost = 11085875, svp cost = 1138200
+last svp = 98, bz = 84, num = 4, cost = 10247958, svp cost = 1313354
+last svp = 99, bz = 83, num = 4, cost = 9540081, svp cost = 1515535
+last svp = 100, bz = 82, num = 4, cost = 8955978, svp cost = 1748921
+last svp = 101, bz = 81, num = 4, cost = 8491086, svp cost = 2018341
+last svp = 102, bz = 80, num = 4, cost = 8142538, svp cost = 2329370
+last svp = 103, bz = 79, num = 4, cost = 7909188, svp cost = 2688450
+last svp = 104, bz = 78, num = 4, cost = 7791654, svp cost = 3103021
+last svp = 105, bz = 77, num = 4, cost = 7792400, svp cost = 3581677
+last svp = 106, bz = 76, num = 4, cost = 7915847, svp cost = 4134348
+last svp = 107, bz = 75, num = 4, cost = 8168513, svp cost = 4772503
+last svp = 108, bz = 74, num = 4, cost = 8559199, svp cost = 5509392
+last svp = 109, bz = 73, num = 4, cost = 9099218, svp cost = 6360325
+last svp = 110, bz = 72, num = 4, cost = 9802663, svp cost = 7342989
+last svp = 111, bz = 71, num = 4, cost = 10686744, svp cost = 8477819
+last svp = 112, bz = 70, num = 4, cost = 11772172, svp cost = 9788428
+last svp = 113, bz = 69, num = 4, cost = 13083627, svp cost = 11302098
+last svp = 114, bz = 64, num = 6, cost = 14611644, svp cost = 13050354
+best (7791653.573445554, [78, 78, 78, 78], 104)
+
+test shrink dim 207
+matrix has been shrinked from 750 to 207
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 94 ~ 114
+last svp = 94, bz = 87, num = 4, cost = 12491193, svp cost = 57795
+last svp = 95, bz = 86, num = 4, cost = 11231817, svp cost = 64903
+last svp = 96, bz = 86, num = 4, cost = 11239803, svp cost = 72889
+last svp = 97, bz = 85, num = 4, cost = 11167413, svp cost = 1138200
+last svp = 98, bz = 84, num = 4, cost = 10320597, svp cost = 1313354
+last svp = 99, bz = 83, num = 4, cost = 9604795, svp cost = 1515535
+last svp = 100, bz = 82, num = 4, cost = 9013635, svp cost = 1748921
+last svp = 101, bz = 81, num = 4, cost = 8542457, svp cost = 2018341
+last svp = 102, bz = 80, num = 4, cost = 8188311, svp cost = 2329370
+last svp = 103, bz = 79, num = 4, cost = 7949975, svp cost = 2688450
+last svp = 104, bz = 78, num = 4, cost = 7828000, svp cost = 3103021
+last svp = 105, bz = 77, num = 4, cost = 7824791, svp cost = 3581677
+last svp = 106, bz = 76, num = 4, cost = 7944714, svp cost = 4134348
+last svp = 107, bz = 75, num = 4, cost = 8194240, svp cost = 4772503
+last svp = 108, bz = 74, num = 4, cost = 8582130, svp cost = 5509392
+last svp = 109, bz = 73, num = 4, cost = 9119657, svp cost = 6360325
+last svp = 110, bz = 72, num = 4, cost = 9820883, svp cost = 7342989
+last svp = 111, bz = 71, num = 4, cost = 10702986, svp cost = 8477819
+last svp = 112, bz = 70, num = 4, cost = 11786652, svp cost = 9788428
+last svp = 113, bz = 69, num = 4, cost = 13096536, svp cost = 11302098
+last svp = 114, bz = 64, num = 6, cost = 14622562, svp cost = 13050354
+best (7824790.507841565, [77, 77, 77, 77], 105)
+
+test shrink dim 208
+matrix has been shrinked from 750 to 208
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 94 ~ 114
+last svp = 94, bz = 87, num = 4, cost = 12593949, svp cost = 57795
+last svp = 95, bz = 86, num = 4, cost = 11323349, svp cost = 64903
+last svp = 96, bz = 85, num = 4, cost = 10183641, svp cost = 72889
+last svp = 97, bz = 84, num = 4, cost = 10218081, svp cost = 1138200
+last svp = 98, bz = 84, num = 4, cost = 10393236, svp cost = 1313354
+last svp = 99, bz = 83, num = 4, cost = 9669509, svp cost = 1515535
+last svp = 100, bz = 82, num = 4, cost = 9071291, svp cost = 1748921
+last svp = 101, bz = 81, num = 4, cost = 8593828, svp cost = 2018341
+last svp = 102, bz = 80, num = 4, cost = 8234084, svp cost = 2329370
+last svp = 103, bz = 79, num = 4, cost = 7990762, svp cost = 2688450
+last svp = 104, bz = 78, num = 4, cost = 7864346, svp cost = 3103021
+last svp = 105, bz = 77, num = 4, cost = 7857181, svp cost = 3581677
+last svp = 106, bz = 76, num = 4, cost = 7973580, svp cost = 4134348
+last svp = 107, bz = 75, num = 4, cost = 8219968, svp cost = 4772503
+last svp = 108, bz = 74, num = 4, cost = 8605061, svp cost = 5509392
+last svp = 109, bz = 73, num = 4, cost = 9140097, svp cost = 6360325
+last svp = 110, bz = 72, num = 4, cost = 9839103, svp cost = 7342989
+last svp = 111, bz = 71, num = 4, cost = 10719228, svp cost = 8477819
+last svp = 112, bz = 70, num = 4, cost = 11801132, svp cost = 9788428
+last svp = 113, bz = 65, num = 6, cost = 13064993, svp cost = 11302098
+last svp = 114, bz = 64, num = 6, cost = 14633480, svp cost = 13050354
+best (7857180.684316345, [77, 77, 77, 77], 105)
+
+test shrink dim 209
+matrix has been shrinked from 750 to 209
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 94 ~ 114
+last svp = 94, bz = 87, num = 4, cost = 12696704, svp cost = 57795
+last svp = 95, bz = 86, num = 4, cost = 11414881, svp cost = 64903
+last svp = 96, bz = 85, num = 4, cost = 10265180, svp cost = 72889
+last svp = 97, bz = 84, num = 4, cost = 10290720, svp cost = 1138200
+last svp = 98, bz = 83, num = 4, cost = 9532043, svp cost = 1313354
+last svp = 99, bz = 83, num = 4, cost = 9734223, svp cost = 1515535
+last svp = 100, bz = 82, num = 4, cost = 9128948, svp cost = 1748921
+last svp = 101, bz = 81, num = 4, cost = 8645199, svp cost = 2018341
+last svp = 102, bz = 80, num = 4, cost = 8279857, svp cost = 2329370
+last svp = 103, bz = 79, num = 4, cost = 8031549, svp cost = 2688450
+last svp = 104, bz = 78, num = 4, cost = 7900692, svp cost = 3103021
+last svp = 105, bz = 77, num = 4, cost = 7889571, svp cost = 3581677
+last svp = 106, bz = 76, num = 4, cost = 8002446, svp cost = 4134348
+last svp = 107, bz = 75, num = 4, cost = 8245695, svp cost = 4772503
+last svp = 108, bz = 74, num = 4, cost = 8627992, svp cost = 5509392
+last svp = 109, bz = 73, num = 4, cost = 9160536, svp cost = 6360325
+last svp = 110, bz = 72, num = 4, cost = 9857322, svp cost = 7342989
+last svp = 111, bz = 71, num = 4, cost = 10735470, svp cost = 8477819
+last svp = 112, bz = 70, num = 4, cost = 11815612, svp cost = 9788428
+last svp = 113, bz = 65, num = 6, cost = 13077236, svp cost = 11302098
+last svp = 114, bz = 64, num = 6, cost = 14644398, svp cost = 13050354
+best (7889570.860791124, [77, 77, 77, 77], 105)
+
+test shrink dim 210
+matrix has been shrinked from 750 to 210
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 94 ~ 114
+last svp = 94, bz = 87, num = 4, cost = 12799459, svp cost = 57795
+last svp = 95, bz = 86, num = 4, cost = 11506413, svp cost = 64903
+last svp = 96, bz = 85, num = 4, cost = 10346718, svp cost = 72889
+last svp = 97, bz = 84, num = 4, cost = 10363359, svp cost = 1138200
+last svp = 98, bz = 83, num = 4, cost = 9596757, svp cost = 1313354
+last svp = 99, bz = 82, num = 4, cost = 8953218, svp cost = 1515535
+last svp = 100, bz = 82, num = 4, cost = 9186604, svp cost = 1748921
+last svp = 101, bz = 81, num = 4, cost = 8696570, svp cost = 2018341
+last svp = 102, bz = 80, num = 4, cost = 8325630, svp cost = 2329370
+last svp = 103, bz = 79, num = 4, cost = 8072336, svp cost = 2688450
+last svp = 104, bz = 78, num = 4, cost = 7937038, svp cost = 3103021
+last svp = 105, bz = 77, num = 4, cost = 7921961, svp cost = 3581677
+last svp = 106, bz = 76, num = 4, cost = 8031313, svp cost = 4134348
+last svp = 107, bz = 75, num = 4, cost = 8271422, svp cost = 4772503
+last svp = 108, bz = 74, num = 4, cost = 8650923, svp cost = 5509392
+last svp = 109, bz = 73, num = 4, cost = 9180976, svp cost = 6360325
+last svp = 110, bz = 72, num = 4, cost = 9875542, svp cost = 7342989
+last svp = 111, bz = 71, num = 4, cost = 10751712, svp cost = 8477819
+last svp = 112, bz = 70, num = 4, cost = 11830092, svp cost = 9788428
+last svp = 113, bz = 65, num = 6, cost = 13089478, svp cost = 11302098
+last svp = 114, bz = 64, num = 6, cost = 14655316, svp cost = 13050354
+best (7921961.037265904, [77, 77, 77, 77], 105)
+
+test shrink dim 211
+matrix has been shrinked from 750 to 211
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 94 ~ 114
+last svp = 94, bz = 86, num = 4, cost = 11590836, svp cost = 57795
+last svp = 95, bz = 86, num = 4, cost = 11597945, svp cost = 64903
+last svp = 96, bz = 85, num = 4, cost = 10428256, svp cost = 72889
+last svp = 97, bz = 84, num = 4, cost = 10435998, svp cost = 1138200
+last svp = 98, bz = 83, num = 4, cost = 9661471, svp cost = 1313354
+last svp = 99, bz = 82, num = 4, cost = 9010875, svp cost = 1515535
+last svp = 100, bz = 81, num = 4, cost = 8478522, svp cost = 1748921
+last svp = 101, bz = 81, num = 4, cost = 8747941, svp cost = 2018341
+last svp = 102, bz = 80, num = 4, cost = 8371403, svp cost = 2329370
+last svp = 103, bz = 79, num = 4, cost = 8113123, svp cost = 2688450
+last svp = 104, bz = 78, num = 4, cost = 7973384, svp cost = 3103021
+last svp = 105, bz = 77, num = 4, cost = 7954351, svp cost = 3581677
+last svp = 106, bz = 76, num = 4, cost = 8060179, svp cost = 4134348
+last svp = 107, bz = 75, num = 4, cost = 8297150, svp cost = 4772503
+last svp = 108, bz = 74, num = 4, cost = 8673854, svp cost = 5509392
+last svp = 109, bz = 73, num = 4, cost = 9201415, svp cost = 6360325
+last svp = 110, bz = 72, num = 4, cost = 9893762, svp cost = 7342989
+last svp = 111, bz = 71, num = 4, cost = 10767954, svp cost = 8477819
+last svp = 112, bz = 70, num = 4, cost = 11844572, svp cost = 9788428
+last svp = 113, bz = 65, num = 6, cost = 13101720, svp cost = 11302098
+last svp = 114, bz = 64, num = 6, cost = 14666234, svp cost = 13050354
+best (7954351.213740684, [77, 77, 77, 77], 105)
+
+test shrink dim 212
+matrix has been shrinked from 750 to 212
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 94 ~ 114
+last svp = 94, bz = 86, num = 4, cost = 11682368, svp cost = 57795
+last svp = 95, bz = 85, num = 4, cost = 10501809, svp cost = 64903
+last svp = 96, bz = 85, num = 4, cost = 10509795, svp cost = 72889
+last svp = 97, bz = 84, num = 4, cost = 10508638, svp cost = 1138200
+last svp = 98, bz = 83, num = 4, cost = 9726185, svp cost = 1313354
+last svp = 99, bz = 82, num = 4, cost = 9068531, svp cost = 1515535
+last svp = 100, bz = 81, num = 4, cost = 8529893, svp cost = 1748921
+last svp = 101, bz = 80, num = 4, cost = 8106147, svp cost = 2018341
+last svp = 102, bz = 80, num = 4, cost = 8417176, svp cost = 2329370
+last svp = 103, bz = 79, num = 4, cost = 8153910, svp cost = 2688450
+last svp = 104, bz = 78, num = 4, cost = 8009730, svp cost = 3103021
+last svp = 105, bz = 77, num = 4, cost = 7986741, svp cost = 3581677
+last svp = 106, bz = 76, num = 4, cost = 8089046, svp cost = 4134348
+last svp = 107, bz = 75, num = 4, cost = 8322877, svp cost = 4772503
+last svp = 108, bz = 74, num = 4, cost = 8696785, svp cost = 5509392
+last svp = 109, bz = 73, num = 4, cost = 9221855, svp cost = 6360325
+last svp = 110, bz = 72, num = 4, cost = 9911982, svp cost = 7342989
+last svp = 111, bz = 71, num = 4, cost = 10784196, svp cost = 8477819
+last svp = 112, bz = 70, num = 4, cost = 11859052, svp cost = 9788428
+last svp = 113, bz = 65, num = 6, cost = 13113963, svp cost = 11302098
+last svp = 114, bz = 64, num = 6, cost = 14677152, svp cost = 13050354
+best (7986741.390215464, [77, 77, 77, 77], 105)
+
+find final best d at 206, with result (factored cost) (7791653.573445554, [78, 78, 78, 78], 104)
+full matrix with dim 750 is loaded, q = 113
+matrix has been shrinked from 750 to 206
+converted matrix to IntegerMatrix
+GSO basis is computed
+let's start with (factored cost) 7791653.573445554 [78, 78, 78, 78] 104
+======== round 0 ========
+todo suffixes: [[78], [80], [79], [77]]
+cur_suffix: [78]
+first choice: (7698794.672922483, 73, 5)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(7791653.573445554, [78, 78, 78, 78], 104, 206)
+end round with 6 suffixes
+
+
+======== round 1 ========
+todo suffixes: [[75, 78], [74, 78], [73, 78], [80], [79], [77]]
+cur_suffix: [75, 78]
+first choice: (7603862.286169995, 70, 5)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(7603862.286169995, [70, 70, 70, 70, 70, 75, 78], 104, 206)
+(7791653.573445554, [78, 78, 78, 78], 104, 206)
+end round with 5 suffixes
+
+
+======== round 2 ========
+todo suffixes: [[74, 78], [73, 78], [80], [79], [77]]
+cur_suffix: [74, 78]
+first choice: (8155306.972202701, 69, 7)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(7603862.286169995, [70, 70, 70, 70, 70, 75, 78], 104, 206)
+(7791653.573445554, [78, 78, 78, 78], 104, 206)
+(8155306.972202701, [69, 69, 69, 69, 69, 69, 69, 74, 78], 104, 206)
+end round with 4 suffixes
+
+
+======== round 3 ========
+todo suffixes: [[73, 78], [80], [79], [77]]
+cur_suffix: [73, 78]
+first choice: (8431455.171501473, 70, 7)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(7603862.286169995, [70, 70, 70, 70, 70, 75, 78], 104, 206)
+(7791653.573445554, [78, 78, 78, 78], 104, 206)
+(8155306.972202701, [69, 69, 69, 69, 69, 69, 69, 74, 78], 104, 206)
+(8431455.171501473, [70, 70, 70, 70, 70, 70, 70, 73, 78], 104, 206)
+end round with 3 suffixes
+
+
+======== round 4 ========
+todo suffixes: [[80], [79], [77]]
+cur_suffix: [80]
+first choice: (7952323.139924409, 75, 4)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(7603862.286169995, [70, 70, 70, 70, 70, 75, 78], 104, 206)
+(7791653.573445554, [78, 78, 78, 78], 104, 206)
+(8155306.972202701, [69, 69, 69, 69, 69, 69, 69, 74, 78], 104, 206)
+(8431455.171501473, [70, 70, 70, 70, 70, 70, 70, 73, 78], 104, 206)
+end round with 5 suffixes
+
+
+======== round 5 ========
+todo suffixes: [[77, 80], [76, 80], [75, 80], [79], [77]]
+cur_suffix: [77, 80]
+first choice: (7453749.251739673, 72, 3)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(7603862.286169995, [70, 70, 70, 70, 70, 75, 78], 104, 206)
+(7791653.573445554, [78, 78, 78, 78], 104, 206)
+(8155306.972202701, [69, 69, 69, 69, 69, 69, 69, 74, 78], 104, 206)
+(8431455.171501473, [70, 70, 70, 70, 70, 70, 70, 73, 78], 104, 206)
+end round with 7 suffixes
+
+
+======== round 6 ========
+todo suffixes: [[74, 77, 80], [73, 77, 80], [72, 77, 80], [76, 80], [75, 80], [79], [77]]
+cur_suffix: [74, 77, 80]
+first choice: (7262210.114837626, 69, 2)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(7262210.114837626, [69, 69, 74, 77, 80], 104, 206)
+(7603862.286169995, [70, 70, 70, 70, 70, 75, 78], 104, 206)
+(7791653.573445554, [78, 78, 78, 78], 104, 206)
+(8155306.972202701, [69, 69, 69, 69, 69, 69, 69, 74, 78], 104, 206)
+(8431455.171501473, [70, 70, 70, 70, 70, 70, 70, 73, 78], 104, 206)
+end round with 6 suffixes
+
+
+======== round 7 ========
+todo suffixes: [[73, 77, 80], [72, 77, 80], [76, 80], [75, 80], [79], [77]]
+cur_suffix: [73, 77, 80]
+first choice: (7093686.063400654, 68, 2)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+(7262210.114837626, [69, 69, 74, 77, 80], 104, 206)
+(7603862.286169995, [70, 70, 70, 70, 70, 75, 78], 104, 206)
+(7791653.573445554, [78, 78, 78, 78], 104, 206)
+(8155306.972202701, [69, 69, 69, 69, 69, 69, 69, 74, 78], 104, 206)
+end round with 5 suffixes
+
+
+======== round 8 ========
+todo suffixes: [[72, 77, 80], [76, 80], [75, 80], [79], [77]]
+cur_suffix: [72, 77, 80]
+first choice: (6942347.342164691, 67, 2)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+(7262210.114837626, [69, 69, 74, 77, 80], 104, 206)
+(7603862.286169995, [70, 70, 70, 70, 70, 75, 78], 104, 206)
+(7791653.573445554, [78, 78, 78, 78], 104, 206)
+end round with 4 suffixes
+
+
+======== round 9 ========
+todo suffixes: [[76, 80], [75, 80], [79], [77]]
+cur_suffix: [76, 80]
+first choice: (7158381.169272777, 71, 3)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+(7262210.114837626, [69, 69, 74, 77, 80], 104, 206)
+(7603862.286169995, [70, 70, 70, 70, 70, 75, 78], 104, 206)
+(7791653.573445554, [78, 78, 78, 78], 104, 206)
+end round with 6 suffixes
+
+
+======== round 10 ========
+todo suffixes: [[73, 76, 80], [72, 76, 80], [71, 76, 80], [75, 80], [79], [77]]
+cur_suffix: [73, 76, 80]
+first choice: (6986380.098959517, 68, 2)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+(7262210.114837626, [69, 69, 74, 77, 80], 104, 206)
+(7603862.286169995, [70, 70, 70, 70, 70, 75, 78], 104, 206)
+end round with 5 suffixes
+
+
+======== round 11 ========
+todo suffixes: [[72, 76, 80], [71, 76, 80], [75, 80], [79], [77]]
+cur_suffix: [72, 76, 80]
+first choice: (7194258.945326716, 67, 3)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+(7194258.945326716, [67, 67, 67, 72, 76, 80], 104, 206)
+(7262210.114837626, [69, 69, 74, 77, 80], 104, 206)
+end round with 4 suffixes
+
+
+======== round 12 ========
+todo suffixes: [[71, 76, 80], [75, 80], [79], [77]]
+cur_suffix: [71, 76, 80]
+first choice: (7021746.14326265, 66, 3)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+(7194258.945326716, [67, 67, 67, 72, 76, 80], 104, 206)
+end round with 3 suffixes
+
+
+======== round 13 ========
+todo suffixes: [[75, 80], [79], [77]]
+cur_suffix: [75, 80]
+first choice: (7389060.091685317, 70, 4)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+(7194258.945326716, [67, 67, 67, 72, 76, 80], 104, 206)
+end round with 2 suffixes
+
+
+======== round 14 ========
+todo suffixes: [[79], [77]]
+cur_suffix: [79]
+first choice: (7458012.523406891, 74, 4)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+(7194258.945326716, [67, 67, 67, 72, 76, 80], 104, 206)
+end round with 4 suffixes
+
+
+======== round 15 ========
+todo suffixes: [[76, 79], [75, 79], [74, 79], [77]]
+cur_suffix: [76, 79]
+first choice: (7562504.647415692, 71, 4)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+(7194258.945326716, [67, 67, 67, 72, 76, 80], 104, 206)
+end round with 6 suffixes
+
+
+======== round 16 ========
+todo suffixes: [[73, 76, 79], [72, 76, 79], [71, 76, 79], [75, 79], [74, 79], [77]]
+cur_suffix: [73, 76, 79]
+first choice: (7238257.04900218, 68, 3)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+(7194258.945326716, [67, 67, 67, 72, 76, 80], 104, 206)
+end round with 5 suffixes
+
+
+======== round 17 ========
+todo suffixes: [[72, 76, 79], [71, 76, 79], [75, 79], [74, 79], [77]]
+cur_suffix: [72, 76, 79]
+first choice: (7046151.273754231, 67, 3)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7046151.273754231, [67, 67, 67, 72, 76, 79], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+end round with 4 suffixes
+
+
+======== round 18 ========
+todo suffixes: [[71, 76, 79], [75, 79], [74, 79], [77]]
+cur_suffix: [71, 76, 79]
+first choice: (7196247.5628303895, 66, 4)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7046151.273754231, [67, 67, 67, 72, 76, 79], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+end round with 3 suffixes
+
+
+======== round 19 ========
+todo suffixes: [[75, 79], [74, 79], [77]]
+cur_suffix: [75, 79]
+first choice: (7240952.420112832, 70, 4)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7046151.273754231, [67, 67, 67, 72, 76, 79], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+end round with 2 suffixes
+
+
+======== round 20 ========
+todo suffixes: [[74, 79], [77]]
+cur_suffix: [74, 79]
+first choice: (7397568.636048921, 69, 5)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7046151.273754231, [67, 67, 67, 72, 76, 79], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+end round with 1 suffixes
+
+
+======== round 21 ========
+todo suffixes: [[77]]
+cur_suffix: [77]
+first choice: (8264040.351110035, 73, 6)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7046151.273754231, [67, 67, 67, 72, 76, 79], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+end round with 3 suffixes
+
+
+======== round 22 ========
+todo suffixes: [[75, 77], [74, 77], [73, 77]]
+cur_suffix: [75, 77]
+first choice: (7980320.977467697, 70, 6)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7046151.273754231, [67, 67, 67, 72, 76, 79], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+end round with 2 suffixes
+
+
+======== round 23 ========
+todo suffixes: [[74, 77], [73, 77]]
+cur_suffix: [74, 77]
+first choice: (8231540.247247064, 71, 6)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7046151.273754231, [67, 67, 67, 72, 76, 79], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+end round with 4 suffixes
+
+
+======== round 24 ========
+todo suffixes: [[73, 74, 77], [72, 74, 77], [71, 74, 77], [73, 77]]
+cur_suffix: [73, 74, 77]
+first choice: (8002784.214248195, 68, 6)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7046151.273754231, [67, 67, 67, 72, 76, 79], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+end round with 3 suffixes
+
+
+======== round 25 ========
+todo suffixes: [[72, 74, 77], [71, 74, 77], [73, 77]]
+cur_suffix: [72, 74, 77]
+first choice: (8732948.8442665, 68, 8)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7046151.273754231, [67, 67, 67, 72, 76, 79], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+end round with 2 suffixes
+
+
+======== round 26 ========
+todo suffixes: [[71, 74, 77], [73, 77]]
+cur_suffix: [71, 74, 77]
+first choice: (9033442.973907713, 69, 8)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7046151.273754231, [67, 67, 67, 72, 76, 79], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+end round with 1 suffixes
+
+
+======== round 27 ========
+todo suffixes: [[73, 77]]
+cur_suffix: [73, 77]
+first choice: (8529935.807440728, 72, 6)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7046151.273754231, [67, 67, 67, 72, 76, 79], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+end round with 1 suffixes
+
+
+======== round 28 ========
+todo suffixes: [[72, 73, 77]]
+cur_suffix: [72, 73, 77]
+first choice: (9422832.38518983, 70, 8)
+baseline: (7791653.573445554, [78, 78, 78, 78], 104, 206)
+best 5 choices:
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+(6986380.098959517, [68, 68, 73, 76, 80], 104, 206)
+(7021746.14326265, [66, 66, 66, 71, 76, 80], 104, 206)
+(7046151.273754231, [67, 67, 67, 72, 76, 79], 104, 206)
+(7093686.063400654, [68, 68, 73, 77, 80], 104, 206)
+end round with 0 suffixes
+
+
+-------our strategy.-------
+(6942347.342164691, [67, 67, 72, 77, 80], 104, 206)
+22.726992117763917
+-------BKZ+SVP.-----------
+4 * 80
+23.08799583078819
+------bkz reduced.------
+36 * 80
+25.64081831968879
+------BKZ-only.----------
+bz = 89, num = 8, cost = 30565858
+8 * 89
+24.86541773834543
+total time: 42.67 seconds

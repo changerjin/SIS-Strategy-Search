@@ -1,0 +1,448 @@
+full matrix with dim 700 is loaded, q = 103
+test shrink dim 180
+matrix has been shrinked from 700 to 180
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 80 ~ 100
+last svp = 81, bz = 76, num = 6, cost = 4559302, svp cost = 12843
+last svp = 82, bz = 77, num = 4, cost = 3382992, svp cost = 14414
+last svp = 83, bz = 76, num = 4, cost = 3047151, svp cost = 16179
+last svp = 84, bz = 76, num = 4, cost = 3049132, svp cost = 18160
+last svp = 85, bz = 75, num = 4, cost = 2747484, svp cost = 20385
+last svp = 86, bz = 74, num = 4, cost = 2476487, svp cost = 22883
+last svp = 87, bz = 73, num = 4, cost = 2233154, svp cost = 25689
+last svp = 88, bz = 72, num = 4, cost = 2014799, svp cost = 28840
+last svp = 89, bz = 71, num = 4, cost = 1819009, svp cost = 32379
+last svp = 90, bz = 70, num = 4, cost = 1643622, svp cost = 36354
+last svp = 91, bz = 69, num = 4, cost = 1486698, svp cost = 40819
+last svp = 92, bz = 68, num = 4, cost = 1346503, svp cost = 45834
+last svp = 93, bz = 67, num = 4, cost = 1221490, svp cost = 51467
+last svp = 94, bz = 66, num = 4, cost = 1110278, svp cost = 57795
+last svp = 95, bz = 65, num = 4, cost = 1011644, svp cost = 64903
+last svp = 96, bz = 64, num = 4, cost = 924502, svp cost = 72889
+last svp = 97, bz = 59, num = 6, cost = 1890452, svp cost = 1138200
+last svp = 98, bz = 58, num = 6, cost = 1990017, svp cost = 1313354
+last svp = 99, bz = 58, num = 5, cost = 2079421, svp cost = 1515535
+last svp = 100, bz = 57, num = 5, cost = 2256149, svp cost = 1748921
+best (924501.9324922891, [64, 64, 64, 64], 96)
+
+test shrink dim 185
+matrix has been shrinked from 700 to 185
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 80 ~ 100
+last svp = 80, bz = 75, num = 5, cost = 3581113, svp cost = 11443
+last svp = 81, bz = 76, num = 4, cost = 3188147, svp cost = 12843
+last svp = 82, bz = 75, num = 4, cost = 2870150, svp cost = 14414
+last svp = 83, bz = 75, num = 4, cost = 2871914, svp cost = 16179
+last svp = 84, bz = 74, num = 4, cost = 2586418, svp cost = 18160
+last svp = 85, bz = 73, num = 4, cost = 2330048, svp cost = 20385
+last svp = 86, bz = 72, num = 4, cost = 2099941, svp cost = 22883
+last svp = 87, bz = 71, num = 4, cost = 1893529, svp cost = 25689
+last svp = 88, bz = 70, num = 4, cost = 1708507, svp cost = 28840
+last svp = 89, bz = 70, num = 4, cost = 1712046, svp cost = 32379
+last svp = 90, bz = 69, num = 4, cost = 1546781, svp cost = 36354
+last svp = 91, bz = 68, num = 4, cost = 1399040, svp cost = 40819
+last svp = 92, bz = 67, num = 4, cost = 1267173, svp cost = 45834
+last svp = 93, bz = 66, num = 4, cost = 1149711, svp cost = 51467
+last svp = 94, bz = 65, num = 4, cost = 1045343, svp cost = 57795
+last svp = 95, bz = 60, num = 6, cost = 935752, svp cost = 64903
+last svp = 96, bz = 59, num = 6, cost = 855972, svp cost = 72889
+last svp = 97, bz = 58, num = 6, cost = 1842369, svp cost = 1138200
+last svp = 98, bz = 57, num = 6, cost = 1946571, svp cost = 1313354
+last svp = 99, bz = 56, num = 6, cost = 2084958, svp cost = 1515535
+last svp = 100, bz = 55, num = 6, cost = 2260986, svp cost = 1748921
+best (855971.7253646115, [59, 59, 59, 59, 59, 59], 96)
+
+test shrink dim 190
+matrix has been shrinked from 700 to 190
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 80 ~ 100
+last svp = 80, bz = 74, num = 5, cost = 3365085, svp cost = 11443
+last svp = 81, bz = 75, num = 4, cost = 2997215, svp cost = 12843
+last svp = 82, bz = 74, num = 4, cost = 2697327, svp cost = 14414
+last svp = 83, bz = 73, num = 4, cost = 2428039, svp cost = 16179
+last svp = 84, bz = 73, num = 4, cost = 2430020, svp cost = 18160
+last svp = 85, bz = 72, num = 4, cost = 2188542, svp cost = 20385
+last svp = 86, bz = 71, num = 4, cost = 1971934, svp cost = 22883
+last svp = 87, bz = 70, num = 4, cost = 1777755, svp cost = 25689
+last svp = 88, bz = 66, num = 6, cost = 1744846, svp cost = 28840
+last svp = 89, bz = 65, num = 6, cost = 1574913, svp cost = 32379
+last svp = 90, bz = 68, num = 4, cost = 1452127, svp cost = 36354
+last svp = 91, bz = 67, num = 4, cost = 1313475, svp cost = 40819
+last svp = 92, bz = 66, num = 4, cost = 1189838, svp cost = 45834
+last svp = 93, bz = 65, num = 4, cost = 1079823, svp cost = 51467
+last svp = 94, bz = 64, num = 4, cost = 982195, svp cost = 57795
+last svp = 95, bz = 61, num = 5, cost = 904234, svp cost = 64903
+last svp = 96, bz = 60, num = 5, cost = 827394, svp cost = 72889
+last svp = 97, bz = 59, num = 5, cost = 1816460, svp cost = 1138200
+last svp = 98, bz = 58, num = 5, cost = 1923084, svp cost = 1313354
+last svp = 99, bz = 57, num = 5, cost = 2063669, svp cost = 1515535
+last svp = 100, bz = 56, num = 5, cost = 2241691, svp cost = 1748921
+best (827393.9980665604, [60, 60, 60, 60, 60], 96)
+
+test shrink dim 195
+matrix has been shrinked from 700 to 195
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 80 ~ 100
+last svp = 80, bz = 75, num = 4, cost = 3124453, svp cost = 11443
+last svp = 81, bz = 74, num = 4, cost = 2810410, svp cost = 12843
+last svp = 82, bz = 74, num = 4, cost = 2811982, svp cost = 14414
+last svp = 83, bz = 73, num = 4, cost = 2530237, svp cost = 16179
+last svp = 84, bz = 72, num = 4, cost = 2277416, svp cost = 18160
+last svp = 85, bz = 71, num = 4, cost = 2050646, svp cost = 20385
+last svp = 86, bz = 71, num = 4, cost = 2053145, svp cost = 22883
+last svp = 87, bz = 70, num = 4, cost = 1850155, svp cost = 25689
+last svp = 88, bz = 69, num = 4, cost = 1668363, svp cost = 28840
+last svp = 89, bz = 68, num = 4, cost = 1505704, svp cost = 32379
+last svp = 90, bz = 65, num = 5, cost = 1372809, svp cost = 36354
+last svp = 91, bz = 63, num = 6, cost = 1335942, svp cost = 40819
+last svp = 92, bz = 62, num = 6, cost = 1209705, svp cost = 45834
+last svp = 93, bz = 65, num = 4, cost = 1120631, svp cost = 51467
+last svp = 94, bz = 64, num = 4, cost = 1018589, svp cost = 57795
+last svp = 95, bz = 63, num = 4, cost = 928319, svp cost = 64903
+last svp = 96, bz = 60, num = 5, cost = 856192, svp cost = 72889
+last svp = 97, bz = 59, num = 5, cost = 1842152, svp cost = 1138200
+last svp = 98, bz = 58, num = 5, cost = 1946007, svp cost = 1313354
+last svp = 99, bz = 57, num = 5, cost = 2084121, svp cost = 1515535
+last svp = 100, bz = 56, num = 5, cost = 2259942, svp cost = 1748921
+best (856191.8868562378, [60, 60, 60, 60, 60], 96)
+
+find rough best d at 190, with result (827393.9980665604, [60, 60, 60, 60, 60], 96)
+test shrink dim 186
+matrix has been shrinked from 700 to 186
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 80 ~ 100
+last svp = 80, bz = 75, num = 5, cost = 3613272, svp cost = 11443
+last svp = 81, bz = 76, num = 4, cost = 3217014, svp cost = 12843
+last svp = 82, bz = 75, num = 4, cost = 2895877, svp cost = 14414
+last svp = 83, bz = 74, num = 4, cost = 2607368, svp cost = 16179
+last svp = 84, bz = 74, num = 4, cost = 2609349, svp cost = 18160
+last svp = 85, bz = 73, num = 4, cost = 2350487, svp cost = 20385
+last svp = 86, bz = 72, num = 4, cost = 2118161, svp cost = 22883
+last svp = 87, bz = 71, num = 4, cost = 1909772, svp cost = 25689
+last svp = 88, bz = 70, num = 4, cost = 1722987, svp cost = 28840
+last svp = 89, bz = 69, num = 4, cost = 1555716, svp cost = 32379
+last svp = 90, bz = 68, num = 4, cost = 1406086, svp cost = 36354
+last svp = 91, bz = 64, num = 6, cost = 1383746, svp cost = 40819
+last svp = 92, bz = 63, num = 6, cost = 1253317, svp cost = 45834
+last svp = 93, bz = 62, num = 6, cost = 1137168, svp cost = 51467
+last svp = 94, bz = 61, num = 6, cost = 1034001, svp cost = 57795
+last svp = 95, bz = 60, num = 6, cost = 942663, svp cost = 64903
+last svp = 96, bz = 59, num = 6, cost = 862138, svp cost = 72889
+last svp = 97, bz = 58, num = 6, cost = 1847870, svp cost = 1138200
+last svp = 98, bz = 57, num = 6, cost = 1951480, svp cost = 1313354
+last svp = 99, bz = 56, num = 6, cost = 2089338, svp cost = 1515535
+last svp = 100, bz = 56, num = 5, cost = 2227090, svp cost = 1748921
+best (862137.7286212068, [59, 59, 59, 59, 59, 59], 96)
+
+test shrink dim 187
+matrix has been shrinked from 700 to 187
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 80 ~ 100
+last svp = 80, bz = 75, num = 5, cost = 3645431, svp cost = 11443
+last svp = 81, bz = 76, num = 4, cost = 3245880, svp cost = 12843
+last svp = 82, bz = 75, num = 4, cost = 2921605, svp cost = 14414
+last svp = 83, bz = 74, num = 4, cost = 2630299, svp cost = 16179
+last svp = 84, bz = 73, num = 4, cost = 2368702, svp cost = 18160
+last svp = 85, bz = 72, num = 4, cost = 2133882, svp cost = 20385
+last svp = 86, bz = 72, num = 4, cost = 2136381, svp cost = 22883
+last svp = 87, bz = 71, num = 4, cost = 1926014, svp cost = 25689
+last svp = 88, bz = 70, num = 4, cost = 1737467, svp cost = 28840
+last svp = 89, bz = 69, num = 4, cost = 1568625, svp cost = 32379
+last svp = 90, bz = 68, num = 4, cost = 1417596, svp cost = 36354
+last svp = 91, bz = 67, num = 4, cost = 1282685, svp cost = 40819
+last svp = 92, bz = 64, num = 5, cost = 1174038, svp cost = 45834
+last svp = 93, bz = 63, num = 5, cost = 1065818, svp cost = 51467
+last svp = 94, bz = 62, num = 5, cost = 969784, svp cost = 57795
+last svp = 95, bz = 60, num = 6, cost = 949575, svp cost = 64903
+last svp = 96, bz = 59, num = 6, cost = 868304, svp cost = 72889
+last svp = 97, bz = 59, num = 5, cost = 1801045, svp cost = 1138200
+last svp = 98, bz = 58, num = 5, cost = 1909331, svp cost = 1313354
+last svp = 99, bz = 57, num = 5, cost = 2051397, svp cost = 1515535
+last svp = 100, bz = 56, num = 5, cost = 2230740, svp cost = 1748921
+best (868303.7318778022, [59, 59, 59, 59, 59, 59], 96)
+
+test shrink dim 188
+matrix has been shrinked from 700 to 188
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 80 ~ 100
+last svp = 80, bz = 74, num = 5, cost = 3307757, svp cost = 11443
+last svp = 81, bz = 75, num = 4, cost = 2945761, svp cost = 12843
+last svp = 82, bz = 75, num = 4, cost = 2947332, svp cost = 14414
+last svp = 83, bz = 74, num = 4, cost = 2653230, svp cost = 16179
+last svp = 84, bz = 73, num = 4, cost = 2389141, svp cost = 18160
+last svp = 85, bz = 72, num = 4, cost = 2152102, svp cost = 20385
+last svp = 86, bz = 72, num = 4, cost = 2154601, svp cost = 22883
+last svp = 87, bz = 71, num = 4, cost = 1942256, svp cost = 25689
+last svp = 88, bz = 70, num = 4, cost = 1751947, svp cost = 28840
+last svp = 89, bz = 69, num = 4, cost = 1581535, svp cost = 32379
+last svp = 90, bz = 68, num = 4, cost = 1429106, svp cost = 36354
+last svp = 91, bz = 67, num = 4, cost = 1292949, svp cost = 40819
+last svp = 92, bz = 66, num = 4, cost = 1171534, svp cost = 45834
+last svp = 93, bz = 63, num = 5, cost = 1073932, svp cost = 51467
+last svp = 94, bz = 62, num = 5, cost = 977022, svp cost = 57795
+last svp = 95, bz = 61, num = 5, cost = 891321, svp cost = 64903
+last svp = 96, bz = 60, num = 5, cost = 815875, svp cost = 72889
+last svp = 97, bz = 59, num = 5, cost = 1806183, svp cost = 1138200
+last svp = 98, bz = 58, num = 5, cost = 1913916, svp cost = 1313354
+last svp = 99, bz = 57, num = 5, cost = 2055487, svp cost = 1515535
+last svp = 100, bz = 56, num = 5, cost = 2234391, svp cost = 1748921
+best (815874.8425506891, [60, 60, 60, 60, 60], 96)
+
+test shrink dim 189
+matrix has been shrinked from 700 to 189
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 80 ~ 100
+last svp = 80, bz = 74, num = 5, cost = 3336421, svp cost = 11443
+last svp = 81, bz = 75, num = 4, cost = 2971488, svp cost = 12843
+last svp = 82, bz = 74, num = 4, cost = 2674396, svp cost = 14414
+last svp = 83, bz = 74, num = 4, cost = 2676161, svp cost = 16179
+last svp = 84, bz = 73, num = 4, cost = 2409581, svp cost = 18160
+last svp = 85, bz = 72, num = 4, cost = 2170322, svp cost = 20385
+last svp = 86, bz = 71, num = 4, cost = 1955692, svp cost = 22883
+last svp = 87, bz = 67, num = 6, cost = 1919279, svp cost = 25689
+last svp = 88, bz = 70, num = 4, cost = 1766426, svp cost = 28840
+last svp = 89, bz = 69, num = 4, cost = 1594445, svp cost = 32379
+last svp = 90, bz = 68, num = 4, cost = 1440617, svp cost = 36354
+last svp = 91, bz = 67, num = 4, cost = 1303212, svp cost = 40819
+last svp = 92, bz = 66, num = 4, cost = 1180686, svp cost = 45834
+last svp = 93, bz = 65, num = 4, cost = 1071661, svp cost = 51467
+last svp = 94, bz = 64, num = 4, cost = 974916, svp cost = 57795
+last svp = 95, bz = 61, num = 5, cost = 897778, svp cost = 64903
+last svp = 96, bz = 60, num = 5, cost = 821634, svp cost = 72889
+last svp = 97, bz = 59, num = 5, cost = 1811322, svp cost = 1138200
+last svp = 98, bz = 58, num = 5, cost = 1918500, svp cost = 1313354
+last svp = 99, bz = 57, num = 5, cost = 2059578, svp cost = 1515535
+last svp = 100, bz = 56, num = 5, cost = 2238041, svp cost = 1748921
+best (821634.4203086247, [60, 60, 60, 60, 60], 96)
+
+test shrink dim 190
+matrix has been shrinked from 700 to 190
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 80 ~ 100
+last svp = 80, bz = 74, num = 5, cost = 3365085, svp cost = 11443
+last svp = 81, bz = 75, num = 4, cost = 2997215, svp cost = 12843
+last svp = 82, bz = 74, num = 4, cost = 2697327, svp cost = 14414
+last svp = 83, bz = 73, num = 4, cost = 2428039, svp cost = 16179
+last svp = 84, bz = 73, num = 4, cost = 2430020, svp cost = 18160
+last svp = 85, bz = 72, num = 4, cost = 2188542, svp cost = 20385
+last svp = 86, bz = 71, num = 4, cost = 1971934, svp cost = 22883
+last svp = 87, bz = 70, num = 4, cost = 1777755, svp cost = 25689
+last svp = 88, bz = 66, num = 6, cost = 1744846, svp cost = 28840
+last svp = 89, bz = 65, num = 6, cost = 1574913, svp cost = 32379
+last svp = 90, bz = 68, num = 4, cost = 1452127, svp cost = 36354
+last svp = 91, bz = 67, num = 4, cost = 1313475, svp cost = 40819
+last svp = 92, bz = 66, num = 4, cost = 1189838, svp cost = 45834
+last svp = 93, bz = 65, num = 4, cost = 1079823, svp cost = 51467
+last svp = 94, bz = 64, num = 4, cost = 982195, svp cost = 57795
+last svp = 95, bz = 61, num = 5, cost = 904234, svp cost = 64903
+last svp = 96, bz = 60, num = 5, cost = 827394, svp cost = 72889
+last svp = 97, bz = 59, num = 5, cost = 1816460, svp cost = 1138200
+last svp = 98, bz = 58, num = 5, cost = 1923084, svp cost = 1313354
+last svp = 99, bz = 57, num = 5, cost = 2063669, svp cost = 1515535
+last svp = 100, bz = 56, num = 5, cost = 2241691, svp cost = 1748921
+best (827393.9980665604, [60, 60, 60, 60, 60], 96)
+
+test shrink dim 191
+matrix has been shrinked from 700 to 191
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 80 ~ 100
+last svp = 80, bz = 75, num = 4, cost = 3021543, svp cost = 11443
+last svp = 81, bz = 75, num = 4, cost = 3022943, svp cost = 12843
+last svp = 82, bz = 74, num = 4, cost = 2720258, svp cost = 14414
+last svp = 83, bz = 73, num = 4, cost = 2448479, svp cost = 16179
+last svp = 84, bz = 73, num = 4, cost = 2450460, svp cost = 18160
+last svp = 85, bz = 72, num = 4, cost = 2206762, svp cost = 20385
+last svp = 86, bz = 71, num = 4, cost = 1988176, svp cost = 22883
+last svp = 87, bz = 70, num = 4, cost = 1792235, svp cost = 25689
+last svp = 88, bz = 69, num = 4, cost = 1616725, svp cost = 28840
+last svp = 89, bz = 65, num = 6, cost = 1587155, svp cost = 32379
+last svp = 90, bz = 64, num = 6, cost = 1433872, svp cost = 36354
+last svp = 91, bz = 67, num = 4, cost = 1323739, svp cost = 40819
+last svp = 92, bz = 66, num = 4, cost = 1198990, svp cost = 45834
+last svp = 93, bz = 65, num = 4, cost = 1087984, svp cost = 51467
+last svp = 94, bz = 64, num = 4, cost = 989474, svp cost = 57795
+last svp = 95, bz = 63, num = 4, cost = 902351, svp cost = 64903
+last svp = 96, bz = 60, num = 5, cost = 833154, svp cost = 72889
+last svp = 97, bz = 59, num = 5, cost = 1821598, svp cost = 1138200
+last svp = 98, bz = 58, num = 5, cost = 1927669, svp cost = 1313354
+last svp = 99, bz = 57, num = 5, cost = 2067759, svp cost = 1515535
+last svp = 100, bz = 56, num = 5, cost = 2245341, svp cost = 1748921
+best (833153.5758244959, [60, 60, 60, 60, 60], 96)
+
+test shrink dim 192
+matrix has been shrinked from 700 to 192
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 80 ~ 100
+last svp = 80, bz = 75, num = 4, cost = 3047271, svp cost = 11443
+last svp = 81, bz = 75, num = 4, cost = 3048670, svp cost = 12843
+last svp = 82, bz = 74, num = 4, cost = 2743189, svp cost = 14414
+last svp = 83, bz = 73, num = 4, cost = 2468918, svp cost = 16179
+last svp = 84, bz = 72, num = 4, cost = 2222757, svp cost = 18160
+last svp = 85, bz = 72, num = 4, cost = 2224981, svp cost = 20385
+last svp = 86, bz = 71, num = 4, cost = 2004418, svp cost = 22883
+last svp = 87, bz = 70, num = 4, cost = 1806715, svp cost = 25689
+last svp = 88, bz = 69, num = 4, cost = 1629634, svp cost = 28840
+last svp = 89, bz = 66, num = 5, cost = 1485264, svp cost = 32379
+last svp = 90, bz = 64, num = 6, cost = 1444790, svp cost = 36354
+last svp = 91, bz = 63, num = 6, cost = 1306728, svp cost = 40819
+last svp = 92, bz = 66, num = 4, cost = 1208142, svp cost = 45834
+last svp = 93, bz = 65, num = 4, cost = 1096146, svp cost = 51467
+last svp = 94, bz = 64, num = 4, cost = 996752, svp cost = 57795
+last svp = 95, bz = 63, num = 4, cost = 908843, svp cost = 64903
+last svp = 96, bz = 60, num = 5, cost = 838913, svp cost = 72889
+last svp = 97, bz = 59, num = 5, cost = 1826737, svp cost = 1138200
+last svp = 98, bz = 58, num = 5, cost = 1932253, svp cost = 1313354
+last svp = 99, bz = 57, num = 5, cost = 2071850, svp cost = 1515535
+last svp = 100, bz = 56, num = 5, cost = 2248991, svp cost = 1748921
+best (838913.1535824314, [60, 60, 60, 60, 60], 96)
+
+test shrink dim 193
+matrix has been shrinked from 700 to 193
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 80 ~ 100
+last svp = 80, bz = 75, num = 4, cost = 3072998, svp cost = 11443
+last svp = 81, bz = 74, num = 4, cost = 2764549, svp cost = 12843
+last svp = 82, bz = 74, num = 4, cost = 2766120, svp cost = 14414
+last svp = 83, bz = 73, num = 4, cost = 2489358, svp cost = 16179
+last svp = 84, bz = 72, num = 4, cost = 2240976, svp cost = 18160
+last svp = 85, bz = 68, num = 6, cost = 2195841, svp cost = 20385
+last svp = 86, bz = 71, num = 4, cost = 2020660, svp cost = 22883
+last svp = 87, bz = 70, num = 4, cost = 1821195, svp cost = 25689
+last svp = 88, bz = 69, num = 4, cost = 1642544, svp cost = 28840
+last svp = 89, bz = 66, num = 5, cost = 1496704, svp cost = 32379
+last svp = 90, bz = 64, num = 6, cost = 1455708, svp cost = 36354
+last svp = 91, bz = 63, num = 6, cost = 1316466, svp cost = 40819
+last svp = 92, bz = 66, num = 4, cost = 1217294, svp cost = 45834
+last svp = 93, bz = 65, num = 4, cost = 1104307, svp cost = 51467
+last svp = 94, bz = 64, num = 4, cost = 1004031, svp cost = 57795
+last svp = 95, bz = 63, num = 4, cost = 915335, svp cost = 64903
+last svp = 96, bz = 62, num = 4, cost = 837223, svp cost = 72889
+last svp = 97, bz = 59, num = 5, cost = 1831875, svp cost = 1138200
+last svp = 98, bz = 58, num = 5, cost = 1936838, svp cost = 1313354
+last svp = 99, bz = 57, num = 5, cost = 2075940, svp cost = 1515535
+last svp = 100, bz = 56, num = 5, cost = 2252641, svp cost = 1748921
+best (837222.9849136318, [62, 62, 62, 62], 96)
+
+test shrink dim 194
+matrix has been shrinked from 700 to 194
+converted matrix to IntegerMatrix
+GSO basis is computed
+
+test last_svp in range: 80 ~ 100
+last svp = 80, bz = 75, num = 4, cost = 3098725, svp cost = 11443
+last svp = 81, bz = 74, num = 4, cost = 2787479, svp cost = 12843
+last svp = 82, bz = 74, num = 4, cost = 2789051, svp cost = 14414
+last svp = 83, bz = 73, num = 4, cost = 2509797, svp cost = 16179
+last svp = 84, bz = 72, num = 4, cost = 2259196, svp cost = 18160
+last svp = 85, bz = 68, num = 6, cost = 2213106, svp cost = 20385
+last svp = 86, bz = 71, num = 4, cost = 2036903, svp cost = 22883
+last svp = 87, bz = 70, num = 4, cost = 1835675, svp cost = 25689
+last svp = 88, bz = 69, num = 4, cost = 1655454, svp cost = 28840
+last svp = 89, bz = 68, num = 4, cost = 1494193, svp cost = 32379
+last svp = 90, bz = 64, num = 6, cost = 1466627, svp cost = 36354
+last svp = 91, bz = 63, num = 6, cost = 1326204, svp cost = 40819
+last svp = 92, bz = 62, num = 6, cost = 1201020, svp cost = 45834
+last svp = 93, bz = 65, num = 4, cost = 1112469, svp cost = 51467
+last svp = 94, bz = 64, num = 4, cost = 1011310, svp cost = 57795
+last svp = 95, bz = 63, num = 4, cost = 921827, svp cost = 64903
+last svp = 96, bz = 62, num = 4, cost = 843013, svp cost = 72889
+last svp = 97, bz = 59, num = 5, cost = 1837013, svp cost = 1138200
+last svp = 98, bz = 58, num = 5, cost = 1941422, svp cost = 1313354
+last svp = 99, bz = 57, num = 5, cost = 2080031, svp cost = 1515535
+last svp = 100, bz = 56, num = 5, cost = 2256291, svp cost = 1748921
+best (843013.3915283033, [62, 62, 62, 62], 96)
+
+find final best d at 188, with result (factored cost) (815874.8425506891, [60, 60, 60, 60, 60], 96)
+full matrix with dim 700 is loaded, q = 103
+matrix has been shrinked from 700 to 188
+converted matrix to IntegerMatrix
+GSO basis is computed
+let's start with (factored cost) 815874.8425506891 [60, 60, 60, 60, 60] 96
+======== round 0 ========
+todo suffixes: [[60], [62], [61], [59]]
+cur_suffix: [60]
+first choice: (919875.6805786861, 55, 8)
+baseline: (815874.8425506891, [60, 60, 60, 60, 60], 96, 188)
+best 5 choices:
+(815874.8425506891, [60, 60, 60, 60, 60], 96, 188)
+(919875.6805786861, [55, 55, 55, 55, 55, 55, 55, 55, 60], 96, 188)
+end round with 3 suffixes
+
+
+======== round 1 ========
+todo suffixes: [[62], [61], [59]]
+cur_suffix: [62]
+first choice: (796687.2669526518, 57, 5)
+baseline: (815874.8425506891, [60, 60, 60, 60, 60], 96, 188)
+best 5 choices:
+(796687.2669526518, [57, 57, 57, 57, 57, 62], 96, 188)
+(815874.8425506891, [60, 60, 60, 60, 60], 96, 188)
+(919875.6805786861, [55, 55, 55, 55, 55, 55, 55, 55, 60], 96, 188)
+end round with 2 suffixes
+
+
+======== round 2 ========
+todo suffixes: [[61], [59]]
+cur_suffix: [61]
+first choice: (820736.3438103469, 56, 6)
+baseline: (815874.8425506891, [60, 60, 60, 60, 60], 96, 188)
+best 5 choices:
+(796687.2669526518, [57, 57, 57, 57, 57, 62], 96, 188)
+(815874.8425506891, [60, 60, 60, 60, 60], 96, 188)
+(820736.3438103469, [56, 56, 56, 56, 56, 56, 61], 96, 188)
+(919875.6805786861, [55, 55, 55, 55, 55, 55, 55, 55, 60], 96, 188)
+end round with 1 suffixes
+
+
+======== round 3 ========
+todo suffixes: [[59]]
+cur_suffix: [59]
+first choice: (983237.3340805576, 56, 8)
+baseline: (815874.8425506891, [60, 60, 60, 60, 60], 96, 188)
+best 5 choices:
+(796687.2669526518, [57, 57, 57, 57, 57, 62], 96, 188)
+(815874.8425506891, [60, 60, 60, 60, 60], 96, 188)
+(820736.3438103469, [56, 56, 56, 56, 56, 56, 61], 96, 188)
+(919875.6805786861, [55, 55, 55, 55, 55, 55, 55, 55, 60], 96, 188)
+(983237.3340805576, [56, 56, 56, 56, 56, 56, 56, 56, 59], 96, 188)
+end round with 0 suffixes
+
+
+-------our strategy.-------
+(796687.2669526518, [57, 57, 57, 57, 57, 62], 96, 188)
+19.603653991678733
+-------BKZ+SVP.-----------
+5 * 62
+19.9201498136252
+------bkz reduced.------
+48 * 62
+23.073096133042217
+------BKZ-only.----------
+bz = 76, num = 7, cost = 5708332
+7 * 76
+22.444637721693816
+total time: 36.67 seconds
