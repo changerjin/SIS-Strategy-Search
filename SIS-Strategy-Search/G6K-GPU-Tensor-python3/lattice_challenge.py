@@ -3,15 +3,15 @@
 """
 SVP Challenge Solver Command Line Client
 changed by CS on August 24.
-实现super_workout, two-step-mode, pre-process(pnj-BKZ) and pump, check and predict the cost.
+implement super_workout, two-step-mode, pre-process(pnj-BKZ) and pump, check and predict the cost.
 """
-
 
 import pickle as pickler
 
 
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
 """
 LWE Challenge Solving Command Line Client
 """
@@ -423,7 +423,6 @@ def sis_kernel(arg0, params=None, seed=None):
     print("target norm: %d" % target_norm)
 
     if n == 800:
-        # n_shrink = 228
         n_shrink = 228
         s = 114
         blocksizes = [67, 67, 72, 77, 82, 86, 91]
@@ -435,12 +434,9 @@ def sis_kernel(arg0, params=None, seed=None):
         n_shrink = 188
         s = 96
         blocksizes = [57, 57, 57, 57, 57, 62]
-    elif n == 1025:
-        n_shrink = 303
-        s = 180
-        blocksizes = [115, 115, 115, 115, 124, 135, 146]
     else:
-        print("not support yet!")
+        print("not supported yet!")
+        print("please modify the strategy in the line 425!")
         assert(False)
     
     print("Chose %d sub latiice. Predict solution at bkz-%s + svp-%d" % (n_shrink, str(blocksizes), s))
@@ -503,7 +499,6 @@ def sis_kernel(arg0, params=None, seed=None):
     print("\t all walltime: %.3f sec" % (time.time() - T0))
 
 
-    # 输出一些数据
     print("final profile")
     print("target_norm: %d" % target_norm)
     print([g6k.M.get_r(i, i) for i in range(10)])

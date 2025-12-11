@@ -12,12 +12,6 @@ import math, copy, os
 
 version = "ver. 2.1, completely automatic"
 
-expo1 = .202
-expo2 = .249
-expo3 = .296
-expo = .349
-
-
 
 # Dilithium 2
 expect_d = 2304
@@ -171,22 +165,13 @@ def dim4free_n_div_logn(n):
     dim4free = int(n / math.log(n))
     return int(min((n - 40) / 2, dim4free))
 
-def complexity_svp1(d):
-    max_up = d - (dim4free_n_div_logn(d) - 4)
-    global expo
-    c = 0
-    for dd in range(max_up + 1):
-        c += 2**(expo * dd)
-    return c
+# fitted  values
+expo1 = .202
+expo2 = .249
+expo3 = .296
+expo = .349
 
-def complexity_svp2(n): # ver2.1
-    # CS改
-    max_up = n - (n / math.log(n)) + 5
-    global expo
-    c = 0
-    for ii in range(int(max_up)):        
-        c += 2**(expo * (max_up - ii))
-    return c    
+  
 
 def complexity_svp(n):
     max_up = n - (n / math.log(n)) + 5
@@ -235,13 +220,7 @@ def complexity_sieve(n):
         return 2**(eexpo * max_up)
     
 
-# def complexity_svp(n): # ver2.1
-#     max_up = n - (n / math.log(n))
-#     global expo
-#     c = 0
-#     for ii in range(int(max_up)):        
-#         c += 2**(expo * (max_up - ii))
-#     return c    
+   
 
 def complexity_bkz(d, bz):
     return max(1, d - bz + 1) * complexity_svp(bz)
@@ -731,32 +710,6 @@ def check(tar_dim, d, last_sieve, bzs):
     apply_bkz(lll_r, bzs, last_sieve, target, verbose=True)
     return
 
-# check(tar_dim, 213, 114, [59, 64, 69, 74, 79, 84, 89, 92, 95])
-# check(tar_dim, 213, 114, [95, 95, 95, 95])
-# exit()
-
-
-# Falcon 512
-n=512
-q=12289
-length_bound=5833.9072
-m=1024
-
-
-# Falcon 1024
-
-n=1024
-q=12289
-length_bound=8382.4081
-m=2048
-
-
-# lll_r = construct_GSO(n, m, q)
-# print("------BKZ-only.----------")
-# bz, bzs, cost = best_bkz_only(lll_r, length_bound*length_bound)
-# print(bzs, " * ", bz)
-# print(float(log(cost, 2)))
-
 
 
 # Dilithium2
@@ -766,36 +719,6 @@ length_bound=350209
 m=256*9
 
 Dilithium2 = Scheme(n, m, q, length_bound, "inf")
-
-# print("------BKZ-only.----------")
-# lll_r = construct_GSO(Dilithium2.n, Dilithium2.m, Dilithium2.q)
-# bz, bzs, cost = best_bkz_only(lll_r, Dilithium2)
-# print(bzs, " * ", bz)
-# print(float(log(cost, 2)))
-# exit()
-# lll_r = construct_GSO(n, m, q)
-
-# print(succ_bz_num(lll_r, 429, 466, length_bound*length_bound))
-
-# apply_bkz(lll_r, [429]*8, 466, length_bound * length_bound, verbose=True)
-
-# print(succ_bz_num_suffix(lll_r, 428, [429], 466, length_bound*length_bound))
-# exit()
-
-# print(complexity_overall(2300, [440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 440, 441, 443, 444, 445, 446, 448, 449, 450, 451], 452))
-# print(complexity_overall(2300, [452]* 19, 452))
-# print(float(log(complexity_bkz(2304, 453), 2)))
-# print(complexity_bkz(2304, 453))
-# exit()
-
-# best_d, best_res, q = get_best_d(Dilithium2)
-
-# best_d, best_res = 340, (6.928592203637094e+16, [159, 159, 159], 187) 
-
-# get_best_bzs(Dilithium2, 2300, 3.911259692243612e+47, [448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448, 448], 453)
-# exit(1)
-# get_best_bzs(Dilithium2, best_d, best_res[0], best_res[1], best_res[2])
-# exit(1)
 
 
 # n=256*6

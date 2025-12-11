@@ -10,12 +10,7 @@ import time
 
 import logging
 
-# fitted  values
-expo1 = .202
-expo2 = .249
-expo3 = .296
 
-expo = .349
 gap = 2
 bkz_factor_exp = 1
 
@@ -93,6 +88,13 @@ def dim4free_n_div_logn(n):
         return 0
     dim4free = int(n / math.log(n))
     return int(min((n - 40) / 2, dim4free))
+
+# fitted  values
+expo1 = .202
+expo2 = .249
+expo3 = .296
+
+expo = .349
 
 def complexity_sieve(n):
     max_up = n - (n / math.log(n)) + 5

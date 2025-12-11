@@ -13,10 +13,6 @@ import math, copy, os
 
 version = "ver. 2.1, completely automatic"
 
-expo1 = .202
-expo2 = .249
-expo3 = .296
-expo = .349
 
 
 
@@ -164,22 +160,13 @@ def dim4free_n_div_logn(n):
     dim4free = int(n / math.log(n))
     return int(min((n - 40) / 2, dim4free))
 
-def complexity_svp1(d):
-    max_up = d - (dim4free_n_div_logn(d) - 4)
-    global expo
-    c = 0
-    for dd in range(max_up + 1):
-        c += 2**(expo * dd)
-    return c
+# fitted  values
+expo1 = .202
+expo2 = .249
+expo3 = .296
+expo = .349
 
-def complexity_svp2(n): # ver2.1
-    # CS改
-    max_up = n - (n / math.log(n)) + 5
-    global expo
-    c = 0
-    for ii in range(int(max_up)):        
-        c += 2**(expo * (max_up - ii))
-    return c    
+
 
 def complexity_sieve(n):
     max_up = n - (n / math.log(n)) + 5
@@ -203,14 +190,7 @@ def complexity_sieve(n):
     if max_up > 140:
         eexpo = 0.349
         return 2**(eexpo * max_up)
-
-def complexity_svp(n): # ver2.1
-    max_up = n - (n / math.log(n))
-    global expo
-    c = 0
-    for ii in range(int(max_up)):        
-        c += 2**(expo * (max_up - ii))
-    return c    
+ 
 
 def complexity_bkz(d, bz):
     return max(1, d - bz + 1) * complexity_sieve(bz)

@@ -15,13 +15,7 @@ import time
 
 version = "ver. 3.1, automatic"
 
-# fitted  values
-expo1 = .202
-expo2 = .249
-expo3 = .296
 
-
-expo = .349
 gap = 3
 bkz_factor_exp = 1
 
@@ -146,7 +140,13 @@ def dim4free_vary(rr):
             return f-1
     return f
 
-  
+# fitted  values
+expo1 = .202
+expo2 = .249
+expo3 = .296
+
+
+expo = .349
 
 
 def complexity_sieve(n):
